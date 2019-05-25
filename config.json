@@ -1,0 +1,4 @@
+{
+  "mongoURI" : "mongodb://127.0.0.1:27017/rentomojo",
+  "m" : "mongodb://admin:admin@ds159776.mlab.com:59776/shopalyst"
+}
